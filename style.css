@@ -1,4 +1,4 @@
-#poster {
+.game_image {
     width: 400px;
     border: 5px rgb(14, 76, 76) solid;
     display: flex;
@@ -15,4 +15,9 @@ body {
     background-color: bisque ;
     text-align: center;
 
+}
+.HTW{
+    display: flex;
+    gap: 6px;
+    justify-content: center;
 }
